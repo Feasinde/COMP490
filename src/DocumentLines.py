@@ -22,7 +22,7 @@ class EnglishSentences():
 
     def get_connectives_lst(self):
         """Returns list of connectives"""
-        return re.findall("\*\*(.*)\*\*", self.get_line())
+        return re.findall('\*\*([\s?A-Za-z]*)\*\*', self.get_line())
 
 class FrenchSentences():
     """docstring for FrenchSentences"""

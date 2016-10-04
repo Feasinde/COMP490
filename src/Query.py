@@ -32,7 +32,7 @@ class Query():
         connectives = self.english_lines[self.line_number].get_connectives_lst()
         self.print_line()
         for connective in connectives:
-            print("Find the equivalent of the word " + connective + " in the French sentence: ")
+            print('Find the equivalent of the word "' + connective + '" in the French sentence: ')
             fr_connective = input()
             self.english_lines[self.line_number].add_connective(connective, fr_connective)
         print(self.english_lines[self.line_number].get_connectives())
