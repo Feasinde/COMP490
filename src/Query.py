@@ -36,3 +36,6 @@ class Query():
             fr_connective = input()
             self.english_lines[self.line_number].add_connective(connective, fr_connective)
         print(self.english_lines[self.line_number].get_connectives())
+
+    def next_line(self):
+        self.line_number += 1
