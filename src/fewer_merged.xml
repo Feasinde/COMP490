@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="annotation.xsl"?>
+<DOCUMENT>
+	<ParallelChunk annotation_id="0" docOffset="0">
+		<en>Resumption of the session</en>
+		<fr>Reprise de la session</fr>
+	</ParallelChunk>
+	<Speaker annotation_id="1" id="1" name="President">
+		<ParallelChunk annotation_id="2" docOffset="1">
+			<en>I declare resumed the session of the European Parliament adjourned on Friday 17 December 1999, <DiscourseConnective annotation_id="3" sense="Expansion.Conjunction" tokens="[null]">and</DiscourseConnective> I would like once again to wish you a happy new year in the hope that you enjoyed a pleasant festive period.</en>
+			<fr>Je déclare reprise la session du Parlement européen qui avait été interrompue le vendredi 17 décembre dernier <DiscourseConnective annotation_id="3" tokens="[null]">et</DiscourseConnective> je vous renouvelle tous mes vux <DiscourseConnective annotation_id="4" tokens="[null]">en</DiscourseConnective> espérant <DiscourseConnective annotation_id="5" tokens="[null]">que</DiscourseConnective> vous avez passé de bonnes vacances.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="4" docOffset="2">
+			<en><DiscourseConnective annotation_id="5" sense="Comparison.Concession" tokens="[null]">Although</DiscourseConnective>, <DiscourseConnective annotation_id="6" sense="Temporal.Synchrony" tokens="[null]">as</DiscourseConnective> you will have seen, the dreaded 'millennium bug' failed to materialise, still the people in a number of countries suffered a series of natural disasters that truly were dreadful.</en>
+			<fr><DiscourseConnective annotation_id="7" tokens="[null]">Comme</DiscourseConnective> vous avez pu le constater, le grand "bogue de l'an 2000" ne <DiscourseConnective annotation_id="8" tokens="[null]">s'</DiscourseConnective>est pas produit. <DiscourseConnective annotation_id="9" tokens="[null, null]">En revanche</DiscourseConnective>, les citoyens d'un certain nombre de nos pays ont été victimes de catastrophes naturelles qui ont vraiment été terribles.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="7" docOffset="3">
+			<en>You have requested a debate on this subject in the course of the next few days, during this part-session.</en>
+			<fr>Vous avez souhaité un débat <DiscourseConnective annotation_id="11" tokens="[null]">à</DiscourseConnective> ce sujet dans les prochains jours, au cours de cette période de session.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="8" docOffset="4">
+			<en>In the meantime, I should like to observe a minute' s silence, <DiscourseConnective annotation_id="9" sense="Temporal.Synchrony" tokens="[null]">as</DiscourseConnective> a number of Members have requested, on behalf of all the victims concerned, particularly those of the terrible storms, in the various countries of the European Union.</en>
+			<fr><DiscourseConnective annotation_id="13" tokens="[null, null]">En attendant</DiscourseConnective>, je souhaiterais, <DiscourseConnective annotation_id="14" tokens="[null]">comme</DiscourseConnective> un certain nombre de collègues me l'ont demandé, <DiscourseConnective annotation_id="15" tokens="[null]">que</DiscourseConnective> nous observions une minute de silence <DiscourseConnective annotation_id="16" tokens="[null]">pour</DiscourseConnective> toutes les victimes, des tempêtes <DiscourseConnective annotation_id="17" tokens="[null]">notamment</DiscourseConnective>, dans les différents pays de l'Union européenne qui ont été touchés.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="10" docOffset="5">
+			<en>Please rise, then, for this minute' s silence.</en>
+			<fr>Je vous invite <DiscourseConnective annotation_id="19" tokens="[null]">à</DiscourseConnective> vous lever <DiscourseConnective annotation_id="20" tokens="[null]">pour</DiscourseConnective> cette minute de silence.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="11" docOffset="6">
+			<en>(The House rose and observed a minute' s silence)</en>
+			<fr>(Le Parlement, debout, observe une minute de silence)</fr>
+		</ParallelChunk>
+	</Speaker>
+	<Speaker annotation_id="12" id="2" name="Evans, Robert J">
+		<ParallelChunk annotation_id="13" docOffset="7">
+			<en>Madam President, on a point of order.</en>
+			<fr>Madame la Présidente, c'est une motion de procédure.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="14" docOffset="8">
+			<en>You will be aware from the press and television that there have been a number of bomb explosions and killings in Sri Lanka.</en>
+			<fr>Vous avez probablement appris par la presse <DiscourseConnective annotation_id="25" tokens="[null]">et</DiscourseConnective> par la télévision <DiscourseConnective annotation_id="26" tokens="[null]">que</DiscourseConnective> plusieurs attentats <DiscourseConnective annotation_id="27" tokens="[null]">à</DiscourseConnective> la bombe <DiscourseConnective annotation_id="28" tokens="[null]">et</DiscourseConnective> crimes ont été perpétrés au Sri Lanka.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="15" docOffset="9">
+			<en>One of the people assassinated very recently in Sri Lanka was Mr Kumar Ponnambalam, who had visited the European Parliament just a few months ago.</en>
+			<fr>L'une des personnes qui vient d'être assassinée au Sri Lanka est M. Kumar Ponnambalam, qui avait rendu visite au Parlement européen il y a quelques mois <DiscourseConnective annotation_id="30" tokens="[null]">à</DiscourseConnective> peine.</fr>
+		</ParallelChunk>
+		<ParallelChunk annotation_id="16" docOffset="10">
+			<en>Would it be appropriate for you, Madam President, to write a letter to the Sri Lankan President expressing Parliament's regret at his and the other violent deaths in Sri Lanka and urging her to do everything she possibly can to seek a peaceful reconciliation to a very difficult situation?</en>
+			<fr>Ne pensez-vous pas, Madame la Présidente, <DiscourseConnective annotation_id="32" tokens="[null]">qu'</DiscourseConnective>il conviendrait d'écrire une lettre au président du Sri Lanka <DiscourseConnective annotation_id="33" tokens="[null]">pour</DiscourseConnective> lui communiquer <DiscourseConnective annotation_id="34" tokens="[null]">que</DiscourseConnective> le Parlement déplore les morts violentes, dont celle de M. Ponnambalam, <DiscourseConnective annotation_id="35" tokens="[null]">et</DiscourseConnective> <DiscourseConnective annotation_id="36" tokens="[null]">pour</DiscourseConnective> l'inviter instamment <DiscourseConnective annotation_id="37" tokens="[null]">à</DiscourseConnective> faire tout ce qui est <DiscourseConnective annotation_id="38" tokens="[null]">en</DiscourseConnective> son pouvoir <DiscourseConnective annotation_id="39" tokens="[null]">pour</DiscourseConnective> chercher une réconciliation pacifique <DiscourseConnective annotation_id="40" tokens="[null]">et</DiscourseConnective> mettre un terme <DiscourseConnective annotation_id="41" tokens="[null]">à</DiscourseConnective> cette situation particulièrement difficile.</fr>
+		</ParallelChunk>
+	</Speaker>
+</DOCUMENT>
