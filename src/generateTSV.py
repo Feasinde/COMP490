@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-root = ET.parse('merged.xml').getroot()
+root = ET.parse('merged_bold.xml').getroot()
 data_tsv = open('/home/feasinde/Git/COMP490/dataset/dataset_en.tsv', 'w')
 data_tsv.write('en\tfr\n')
 for speaker in root:
@@ -12,6 +12,6 @@ for speaker in root:
             for connective in connectives:
                 mod_sentence = list(sentence)
                 index_of_connective = mod_sentence.index(connective)
-                mod_sentence[index_of_connective] = mod_sentence[index_of_connective].upper()
+                mod_sentence[index_of_connective] = "<b>"+mod_sentence[index_of_connective]+"</b>"
                 data_tsv.write(''.join(mod_sentence) +'\t'+fr_sentence)
 data_tsv.close()
