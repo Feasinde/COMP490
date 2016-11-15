@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 
-root = ET.parse('merged_bold.xml').getroot()
+root = ET.parse('merged.xml').getroot()
 data_tsv = open('/home/feasinde/Git/COMP490/dataset/dataset_en.tsv', 'w')
 data_tsv.write('en\tfr\n')
 for speaker in root:
